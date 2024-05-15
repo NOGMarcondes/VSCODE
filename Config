@@ -1,0 +1,44 @@
+{
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.5,
+   
+    "editor.renderLineHighlight": "gutter",
+    "files.autoSave": "onFocusChange",
+    "terminal.integrated.env.windows": {},
+    "workbench.iconTheme": "material-icon-theme",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "vscode-edge-devtools.webhintInstallNotification": true,
+    "dotnet.server.useOmnisharp": true,
+    "vssolution.openSolutions.selectedInOmnisharp": true,
+    "explorer.confirmDelete": false,
+    "window.zoomLevel": -1,
+    "symbols.hidesExplorerArrows": false,
+    "editor.fontFamily": "Jetbrains Mono",
+    "editor.fontLigatures": true,
+    "explorer.confirmDragAndDrop": false,
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.colorTheme": "One Dark Pro Monokai Darker",
+    "workbench.productIconTheme": "fluent-icons",
+    "workbench.editor.labelFormat": "short",
+    "breadcrumbs.enabled": false,
+    "workbench.activityBar.location": "hidden",
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "workbench.statusBar.visible": false,
+
+      "apc.listRow": {
+        "height": 24
+      },
+     
+      "apc.stylesheet": { 
+        ".editor-actions": "display: none",
+        ".pane-header": "padding: 0 8px",
+        ".pane-body": "padding: 8px",       
+    },
+    "window.commandCenter": false,
+    "window.menuBarVisibility": "compact",
+    "workbench.layoutControl.enabled": false,
+
+}
